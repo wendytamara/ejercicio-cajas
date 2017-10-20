@@ -1,0 +1,44 @@
+.box, .square{
+  border: 5px solid white;
+  height: 300px;
+  width: 300px;
+}
+
+.box{
+  background-color: red;
+}
+
+.box-two, .square-three{
+  height: 150px;
+  width: 150px;
+  position: relative;
+  left: 75px;
+  top: 75px
+}
+
+.box-two{
+  background-color: purple;
+}
+
+.box-three, .square-two{
+  height: 75px;
+  width: 75px;
+}
+.box-three{
+  background-color: yellow;
+}
+.square{
+  background-color: blue;
+}
+.square-two{
+  background-color: black;
+}
+.square-three{
+background-color: darkgreen;
+}
+body{
+  background-color: black;
+}
+h2{
+  color: white;
+}
